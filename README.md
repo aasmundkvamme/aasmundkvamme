@@ -1,7 +1,6 @@
 - 👋 Hi, I'm @aasmundkvamme
 - 👀 I’m interested in coding for learning analytics
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on chatbots from Boost.ai 
+- 🌱 I’m using Python and trying out JavaScript
 - 📫 aasmund.kvamme@hvl.no
 
 <!---
