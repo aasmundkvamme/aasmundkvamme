@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @aasmundkvamme
 - 👀 I’m interested in coding for learning analytics
-- 🌱 I’m using Python and trying out JavaScript
+- 🌱 I’m using Python and sometimes trying out JavaScript 
 - 📫 aasmund.kvamme@hvl.no
 
 <!---
